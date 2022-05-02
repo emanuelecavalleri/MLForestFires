@@ -8,4 +8,4 @@ The aim of this machine learning project is to predict the burned area of forest
   >
 </p>
 
-The notebook can be viewed at https://nbviewer.jupyter.org/github.com/emanuelecavalleri/MLForestFires/blob/main/Forest_Fires.ipynb.
+The notebook can be viewed at https://nbviewer.org/github/emanuelecavalleri/MLForestFires/blob/main/Forest_Fires.ipynb.
